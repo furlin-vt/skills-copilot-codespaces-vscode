@@ -1,3 +1,3 @@
-function connection() {
+function skillsMember() {
     console.log('Connected!');
 }
